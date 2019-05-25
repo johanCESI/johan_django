@@ -1,0 +1,6 @@
+env/
+disquaire_project/__pycache__
+store/__pycache__/
+store/migrations/__pycache__/
+store_v2/__pycache__/
+store_v2/migrations/__pycache__/
